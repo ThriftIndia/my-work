@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://happy-form-358648.framer.app/sitemap.xml
